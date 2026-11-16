@@ -1,4 +1,4 @@
-# Hi, I'm David Mboma
+# Hi, I'm David Daka Mboma
 
 **Building useful things with AI in Lusaka, Zambia.**
 
@@ -20,7 +20,7 @@ I build websites and digital tools using AI-assisted development, and I think ab
 
 ## Currently learning
 
-JavaScript, PHP and SQL.
+JavaScript, PHP and SQL and Machine Learning.
 
 ## Find me
 
