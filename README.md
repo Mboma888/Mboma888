@@ -1,4 +1,4 @@
-# Hi, I'm David Mboma
+# Hi, I'm David Daka Mboma
 
 **Building useful things with AI in Lusaka, Zambia.**
 
